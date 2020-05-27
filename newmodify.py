@@ -1,5 +1,5 @@
- #Based on Zed code - Person Fall detection using raspberry pi camera and opencv lib. Link: https://www.youtube.com/watch?v=eXMYZedp0Uo
-
+ #Based on Zed code - Person Fall detection using raspberry pi camera and opencv lib. Link.
+https://web-chat.global.assistant.watson.cloud.ibm.com/preview.html?region=eu-gb&integrationID=95e96f34-5bc2-4345-bc72-9d51816b81f5&serviceInstanceID=36699238-7143-45f7-9106-391294718c42
 import cv2
 import time
 
